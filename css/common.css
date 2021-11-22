@@ -1,0 +1,66 @@
+
+.blue {
+  background-color: #073064;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  margin-right: 20px;
+  position: relative;
+  bottom: 60px;
+  right: 300px;
+}
+
+li {
+  background-color: white;
+  border: white 2px solid;
+  box-shadow: gray 2px solid;
+  display: inline;
+  margin-right: 10px;
+  padding-inline: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+    float: left;
+    border: #073064 2px solid;
+    text-align: center;
+    color: white;
+    background-color: black;
+    font-size: 17px;
+}
+
+.kkk {
+    position: relative;
+    left: 70px;
+    top: 25px;
+}
+
+.menu a:hover{
+    position: relative;
+    color: aqua;
+}
+
+.titol{
+  left: 220px;
+  bottom: 30px;
+}
+
+body{
+  background-image: url("../img/vhoa0.jpg");
+}
+
+footer{
+  margin-top: 20%;
+}
+
+h1{
+  color: white;
+}
